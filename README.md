@@ -132,6 +132,9 @@ You may also need to add an external to webpack.config.ls:
   },
 ```
 
+## 1.3.0
+- Upgrade crashlytics sdk version to 18.3.2
+
 ## 1.1.0
 - Update dependencies
 - Refactor Android and iOS code
